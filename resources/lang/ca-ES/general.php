@@ -230,6 +230,7 @@ return [
     'go_back'               => 'Torna a :type',
     'validation_error'      => 'Error de validació',
     'dismiss'               => 'Ignora',
+    'size'                  => 'Mida',
 
     'card' => [
         'cards'                 => 'Tarjeta|Tarjetes',
